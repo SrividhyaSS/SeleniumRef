@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="135835" started-at="2017-09-28T12:36:18Z" finished-at="2017-09-28T12:38:34Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="135835" started-at="2017-09-28T12:36:18Z" finished-at="2017-09-28T12:38:34Z">
+      <class name="demopackage.IDIT">
+        <test-method status="PASS" signature="IDITLogin()[pri:0, instance:demopackage.IDIT@548b7f67]" name="IDITLogin" duration-ms="35777" started-at="2017-09-28T18:06:18Z" finished-at="2017-09-28T18:06:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IDITLogin -->
+        <test-method status="PASS" signature="IDITContacts()[pri:1, instance:demopackage.IDIT@548b7f67]" name="IDITContacts" duration-ms="100043" started-at="2017-09-28T18:06:54Z" finished-at="2017-09-28T18:08:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IDITContacts -->
+      </class> <!-- demopackage.IDIT -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
