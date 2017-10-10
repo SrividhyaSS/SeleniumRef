@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="108451" started-at="2017-10-10T04:22:09Z" finished-at="2017-10-10T04:23:58Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="108451" started-at="2017-10-10T04:22:09Z" finished-at="2017-10-10T04:23:58Z">
+      <class name="yatrapages.YatraRegistration">
+        <test-method status="PASS" signature="YatraLogin()[pri:1, instance:yatrapages.YatraRegistration@6d78f375]" name="YatraLogin" duration-ms="108425" started-at="2017-10-10T09:52:09Z" finished-at="2017-10-10T09:53:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- YatraLogin -->
+      </class> <!-- yatrapages.YatraRegistration -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
